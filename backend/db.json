@@ -1,0 +1,80 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta bic preta",
+      "price": 5.89
+    },
+    {
+      "id": 2,
+      "name": "Caneta bic azul",
+      "price": 5.89
+    },
+    {
+      "id": 3,
+      "name": "Caneta pilot preta",
+      "price": 7.89
+    },
+    {
+      "id": 4,
+      "name": "Caneta pilot azul",
+      "price": 7.89
+    },
+    {
+      "id": 5,
+      "name": "Caneta tinteiro",
+      "price": 55.89
+    },
+    {
+      "id": 6,
+      "name": "lustre",
+      "price": "4587.99"
+    },
+    {
+      "name": "garrafa térmica",
+      "price": "54.56",
+      "id": 7
+    }
+  ],
+  "Pets": [
+    {
+      "id": 1,
+      "name": "Karl",
+      "race": "Main Coon",
+      "pedigreeId": "ggggaed4444444444",
+      "color": "Red",
+      "price": 3000
+    },
+    {
+      "name": "Niko",
+      "race": "SRD",
+      "color": "Red",
+      "id": 2,
+      "price": 30000
+    },
+    {
+      "name": "kiki",
+      "race": "SRD",
+      "color": "Cinza",
+      "pedigreeId": "",
+      "id": 3,
+      "price": 45000
+    },
+    {
+      "name": "Rajy",
+      "race": "Maine Coon",
+      "color": "Brom",
+      "pedigreeId": "123165468po8888",
+      "id": 4,
+      "price": 3500
+    },
+    {
+      "name": "Neon",
+      "race": "Persa",
+      "color": "greey",
+      "pedigreeId": "asdassd7",
+      "price": "2500.00",
+      "id": 7
+    }
+  ]
+}
